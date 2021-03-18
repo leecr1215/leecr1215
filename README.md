@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hello my name is chelim. 
+I'm a student majoring in computer science and engineering at Chungnam National University.
+I'm be interested in image processing.
+I am studying Java and Python languages.
+
 <!--
 **leecr1215/leecr1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
