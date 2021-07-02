@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hello my name is chelim. 
+🌱 Hello my name is chelim. 
 
-I'm a student majoring in computer science and engineering at Chungnam National University.
+🎓 I'm a student majoring in computer science and engineering at Chungnam National University.
 
-I'm be interested in image processing.
+💗 I'm be interested in image processing and web programming.
 
-I am studying Java and Python languages.
+👩‍💻 I am studying Java and Python languages.
 
 
 
