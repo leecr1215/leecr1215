@@ -1,9 +1,19 @@
 ### Hi there 👋
 
 Hello my name is chelim. 
+
 I'm a student majoring in computer science and engineering at Chungnam National University.
+
 I'm be interested in image processing.
+
 I am studying Java and Python languages.
+
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+ </div>
+
 
 <!--
 **leecr1215/leecr1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
