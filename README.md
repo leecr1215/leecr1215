@@ -14,6 +14,7 @@ I am studying Java and Python languages.
 	
  </div>
 
+[![Chelim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelimLee&&show_icons=true&hide=["issues"])]
 
 <!--
 **leecr1215/leecr1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
