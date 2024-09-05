@@ -2,7 +2,7 @@
 
 🌱 Hello my name is Chelim. 
 
-🎓 I'm majoring in computer science and engineering at Chungnam National University.
+🎓 I'm majoring in computer science and engineering
 
 💗 I'm interested in web programming.
 
